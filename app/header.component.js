@@ -23,7 +23,7 @@ System.register(['angular2/core'], function(exports_1, context_1) {
                 }
                 HeaderComponent = __decorate([
                     core_1.Component({
-                        selector: 'header-bar',
+                        selector: 'tennis-header',
                         templateUrl: 'app/header.component.html',
                         styleUrls: ['app/header.component.css']
                     }), 
